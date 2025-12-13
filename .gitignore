@@ -1,0 +1,16 @@
+# Build artifacts
+*/build/
+*/output/
+*.o
+*.elf
+*.axf
+*.map
+*.d
+
+# QEMU junk
+*.log
+
+# OS/editor
+.vscode/
+.DS_Store
+
