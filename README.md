@@ -12,10 +12,11 @@ This repository demonstrates running **FreeRTOS** on a **RISC-V RV32** virtual p
 ```bash
 cd Demo/RISC-V_RV32_QEMU_VIRT_GCC/build/gcc
 make
+```
 
-## Cloning Instructions:
+## Cloning Instructions
 Note: This repository uses git submodules. Clone with:
-```bash 
+```bash
 git clone --recurse-submodules https://github.com/saleha-zip/FreeRTOS_RISCV_QEMU_Project
-
+```
 
